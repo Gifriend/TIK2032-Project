@@ -1,0 +1,29 @@
+* html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.container-navbar {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+}
+
+.ul-navbar{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar{
+    border: 1px, black;
+    background-color: white;
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+}
